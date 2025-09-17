@@ -1,0 +1,35 @@
+html,body{
+    
+    height: 100%;
+    width: 100%;
+}
+.button{
+    width: 66px;
+    padding: 20px;
+    margin: 0 3px;
+    border: 2px solid black;
+    border-radius: 9px;
+    cursor: pointer;
+
+
+}
+
+.row{
+    margin: 8px 0;
+}
+.row input{
+    width: 291px;
+    margin: 2px;
+    padding: 6px 0;
+    border: 2px solid black;
+    border-radius: 5px;
+}
+
+.calculator {
+  width: 300px;                 /* box size */
+  margin: 40px auto;            /* center on page */
+  padding: 10px;                /* inner spacing */
+  border: 6px solid #333;       /* fieldset border */
+  border-radius: 12px;          /* rounded corners */
+  background-color: #42494a;    /* background */
+}
